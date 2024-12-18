@@ -1,3 +1,5 @@
+
+
 ## Title
 Readme Generator
 
@@ -11,31 +13,28 @@ Readme Generator
 [Questions](#questions)
 
 ## Description
-I want to create a README Generator using node to so that I can easily create a README for any new projects.
+Using node to create a readme generator
 
 ## Installation
 To install the necessary dependencies, run the following command:
 
-Use 'npm install' or 'npm i' followed by 'npm run start' in the terminal.
+npm install
 
 ## Usage
-Run 'node index.js' in the termal once installed.
+node index.js
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contribution
-The following packages were used:
-- Inquierer
-- fs
+Inquierer and fs
 
 ## Tests
 To run tests, use the following command:
-
-- Bash
-- npm test
+Bash/npm test
 
 ## Questions
 If you have any questions, feel free to contact me:
 - GitHub: [AlexMNewcomer](https://github.com/AlexMNewcomer)
 - Email: alexmnewcomer@gmail.com
+    
