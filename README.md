@@ -28,6 +28,8 @@ This project is licensed under the MIT license.
 The following packages were used:
 - Inquierer
 - fs
+- package-lock.json
+- package.json
 
 ## Tests
 To run tests, use the following command:
